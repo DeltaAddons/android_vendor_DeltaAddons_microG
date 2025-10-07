@@ -1,7 +1,7 @@
 PRODUCT_PACKAGES += \
+	additional_repos.xml \
+	AuroraStore \
 	GmsCore \
 	GsfProxy \
 	FakeStore \
-	FDroid \
-	FDroidPrivilegedExtension \
-	additional_repos.xml
+	NeoStore
